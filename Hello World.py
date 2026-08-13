@@ -7,3 +7,4 @@ for k in range(100):
     print(k)
 for j in range(100):
     print(j)
+#The best code in my life
