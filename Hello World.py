@@ -1,10 +1,6 @@
 print('WW zavoz')
 
-for i in range(100):
-    print(i)
+import random as rnd
 
-for k in range(100):
-    print(k)
-for j in range(100):
-    print(j)
-#The best code in my life
+print(rnd.randrange(1,100))
+print(rnd.randrange(1,100))
